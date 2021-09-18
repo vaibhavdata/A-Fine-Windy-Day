@@ -1,0 +1,49 @@
+2021-09-18/14:45:21		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/14:45:21		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/14:45:22		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/14:45:22		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/14:45:24		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/14:45:24		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/14:45:26		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/15:22:39		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/15:22:39		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/15:22:40		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/15:22:40		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/15:22:42		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/15:22:42		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/15:22:45		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/16:37:29		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:29		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:30		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:30		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:33		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:33		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:35		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/16:37:44		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:44		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:45		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:45		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:47		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:47		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/16:37:50		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/18:30:02		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:30:02		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:30:03		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:30:03		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:30:05		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:30:05		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/18:30:07		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/18:35:53		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:35:53		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:35:54		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:35:54		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:35:56		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:35:56		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/18:35:59		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/19:44:46		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/19:44:47		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/19:44:48		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/19:44:48		Entered insertionGoodData_into_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/19:44:51		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/19:44:51		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/19:44:53		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package

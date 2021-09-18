@@ -1,0 +1,29 @@
+{
+    "SampleFileName": "prWindyDay_11082021_183700.csv",
+    "LengthOfDateStampInFile": 8,
+    "LengthOfTimeStampInFile": 6,
+    "NumberofColumns": 21,
+    "ColName": {
+        "tracking_id": "varchar",
+        "datetime": "varchar",
+        "wind_speed(m/s)": "float",
+        "atmospheric_temperature(°C)": "float",
+        "shaft_temperature(°C)": "float",
+        "blades_angle(°)": "float",
+        "gearbox_temperature(°C)": "float",
+        "engine_temperature(°C)": "float64",
+        "motor_torque(N-m)": "float",
+        "generator_temperature(°C)": "float",
+        "atmospheric_pressure(Pascal)": "float",
+        "area_temperature(°C)": "float",
+        "windmill_body_temperature(°C)": "float",
+        "wind_direction(°)": "float",
+        "resistance(ohm)": "float",
+        "rotor_torque(N-m)": "float",
+        "turbine_status": "varchar",
+        "cloud_level": "varchar",
+        "blade_length(m)": "float",
+        "blade_breadth(m)": "float",
+        "windmill_height(m)": "float"
+    }
+}

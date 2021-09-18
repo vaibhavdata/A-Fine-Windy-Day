@@ -1,0 +1,201 @@
+2021-09-18/14:45:26		Start of Training
+2021-09-18/14:45:26		start data getting
+2021-09-18/14:45:26		Entered the get_data method of the Data_Getter class
+2021-09-18/14:45:27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/14:45:27		get data succesfullly
+2021-09-18/14:45:27		Entered is Null Present in data set
+2021-09-18/14:45:27		Enter Mission value impute
+2021-09-18/14:45:27		Missing value fill succesfully
+2021-09-18/14:45:27		import missing value succesfully
+2021-09-18/14:45:27		Convert datatime folder into int
+2021-09-18/14:45:27		datetime convert into succesfully
+2021-09-18/14:45:27		inter in label encoding
+2021-09-18/14:45:27		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/14:45:27		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/14:45:27		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/14:45:27		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/14:45:27		Encoding succesfullly
+2021-09-18/14:45:27		Entered the remove_columns method of the Preprocessor class
+2021-09-18/14:45:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/14:45:27		Remove date time column succesfully
+2021-09-18/14:45:27		sterted columns
+2021-09-18/14:45:27		Sepreate label succesfully
+2021-09-18/14:45:27		train test split
+2021-09-18/14:45:27		scale numberical value
+2021-09-18/14:45:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/14:45:27		scale numberical value
+2021-09-18/14:45:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/14:45:27		Error in training
+2021-09-18/15:22:45		Start of Training
+2021-09-18/15:22:45		start data getting
+2021-09-18/15:22:45		Entered the get_data method of the Data_Getter class
+2021-09-18/15:22:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/15:22:45		get data succesfullly
+2021-09-18/15:22:45		Entered is Null Present in data set
+2021-09-18/15:22:45		Enter Mission value impute
+2021-09-18/15:22:45		Missing value fill succesfully
+2021-09-18/15:22:45		import missing value succesfully
+2021-09-18/15:22:45		Convert datatime folder into int
+2021-09-18/15:22:46		datetime convert into succesfully
+2021-09-18/15:22:46		inter in label encoding
+2021-09-18/15:22:46		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/15:22:46		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/15:22:46		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/15:22:46		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/15:22:46		Encoding succesfullly
+2021-09-18/15:22:46		Entered the remove_columns method of the Preprocessor class
+2021-09-18/15:22:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/15:22:46		Remove date time column succesfully
+2021-09-18/15:22:46		Error in training
+2021-09-18/16:37:50		Start of Training
+2021-09-18/16:37:50		start data getting
+2021-09-18/16:37:50		Entered the get_data method of the Data_Getter class
+2021-09-18/16:37:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/16:37:50		get data succesfullly
+2021-09-18/16:37:50		Entered is Null Present in data set
+2021-09-18/16:37:50		Enter Mission value impute
+2021-09-18/16:37:50		Missing value fill succesfully
+2021-09-18/16:37:50		import missing value succesfully
+2021-09-18/16:37:50		Convert datatime folder into int
+2021-09-18/16:37:51		datetime convert into succesfully
+2021-09-18/16:37:51		inter in label encoding
+2021-09-18/16:37:51		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/16:37:51		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/16:37:51		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/16:37:51		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/16:37:51		Encoding succesfullly
+2021-09-18/16:37:51		Entered the remove_columns method of the Preprocessor class
+2021-09-18/16:37:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/16:37:51		Remove date time column succesfully
+2021-09-18/16:37:51		sterted columns
+2021-09-18/16:37:51		Sepreate label succesfully
+2021-09-18/16:37:51		train test split
+2021-09-18/16:37:51		scale numberical value
+2021-09-18/16:37:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/16:37:51		scale numberical value
+2021-09-18/16:37:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/16:37:51		scale numbrical value succesfully
+2021-09-18/16:37:51		Entered the get_best_model method of the Model_Finder class
+2021-09-18/16:37:51		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-18/16:38:17		fridict xgboost score 
+2021-09-18/16:38:17		r2_score   for XGBoost:0.9383502215357	Mean Absolute Error 0.40419233429868234	Mean sqret score0.6758240209258909
+2021-09-18/16:38:17		Entered the get_best_params_for_RandomForest Method
+2021-09-18/16:40:37		Gradient Boosting Regression Best params
+2021-09-18/16:40:38		r2 score:0.9399609815490544	Mean Absolute Error 0.4060154458947642	Mean sqret score0.6669367602404693
+2021-09-18/16:40:38		Entered the save_model method of File Operation Class
+2021-09-18/16:40:38		Model FileGridentDescent Saved.Exited the save_model method of file_operation class
+2021-09-18/16:40:38		Successfull End of Training
+2021-09-18/18:30:07		Start of Training
+2021-09-18/18:30:07		start data getting
+2021-09-18/18:30:07		Entered the get_data method of the Data_Getter class
+2021-09-18/18:30:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/18:30:07		get data succesfullly
+2021-09-18/18:30:07		Entered is Null Present in data set
+2021-09-18/18:30:07		Enter Mission value impute
+2021-09-18/18:30:07		Missing value fill succesfully
+2021-09-18/18:30:07		import missing value succesfully
+2021-09-18/18:30:07		Convert datatime folder into int
+2021-09-18/18:30:08		datetime convert into succesfully
+2021-09-18/18:30:08		inter in label encoding
+2021-09-18/18:30:08		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/18:30:08		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/18:30:08		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/18:30:08		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/18:30:08		Encoding succesfullly
+2021-09-18/18:30:08		Entered the remove_columns method of the Preprocessor class
+2021-09-18/18:30:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/18:30:08		Remove date time column succesfully
+2021-09-18/18:30:08		sterted columns
+2021-09-18/18:30:08		Sepreate label succesfully
+2021-09-18/18:30:08		train test split
+2021-09-18/18:30:08		scale numberical value
+2021-09-18/18:30:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/18:30:08		scale numberical value
+2021-09-18/18:30:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/18:30:08		scale numbrical value succesfully
+2021-09-18/18:30:08		Entered the get_best_model method of the Model_Finder class
+2021-09-18/18:30:08		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-18/18:30:28		fridict xgboost score 
+2021-09-18/18:30:28		r2_score   for XGBoost:0.9189366562246397	Mean Absolute Error 0.4509659510305535	Mean sqret score0.7750053099143673
+2021-09-18/18:30:28		Entered the get_best_params_for_RandomForest Method
+2021-09-18/18:32:52		Gradient Boosting Regression Best params
+2021-09-18/18:32:52		r2 score:0.9434163894461363	Mean Absolute Error 0.3921328082049643	Mean sqret score0.6474969828633019
+2021-09-18/18:32:52		Entered the save_model method of File Operation Class
+2021-09-18/18:32:52		Model FileGridentDescent Saved.Exited the save_model method of file_operation class
+2021-09-18/18:32:52		Successfull End of Training
+2021-09-18/18:35:59		Start of Training
+2021-09-18/18:35:59		start data getting
+2021-09-18/18:35:59		Entered the get_data method of the Data_Getter class
+2021-09-18/18:35:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/18:35:59		get data succesfullly
+2021-09-18/18:35:59		Entered is Null Present in data set
+2021-09-18/18:35:59		Enter Mission value impute
+2021-09-18/18:35:59		Missing value fill succesfully
+2021-09-18/18:35:59		import missing value succesfully
+2021-09-18/18:35:59		Convert datatime folder into int
+2021-09-18/18:35:59		datetime convert into succesfully
+2021-09-18/18:35:59		inter in label encoding
+2021-09-18/18:35:59		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/18:35:59		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/18:35:59		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/18:35:59		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/18:35:59		Encoding succesfullly
+2021-09-18/18:35:59		Entered the remove_columns method of the Preprocessor class
+2021-09-18/18:35:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/18:35:59		Remove date time column succesfully
+2021-09-18/18:35:59		sterted columns
+2021-09-18/18:35:59		Sepreate label succesfully
+2021-09-18/18:35:59		train test split
+2021-09-18/18:35:59		scale numberical value
+2021-09-18/18:35:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/18:35:59		scale numberical value
+2021-09-18/18:35:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/18:35:59		scale numbrical value succesfully
+2021-09-18/18:35:59		Entered the get_best_model method of the Model_Finder class
+2021-09-18/18:35:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-18/18:36:18		fridict xgboost score 
+2021-09-18/18:36:18		r2_score   for XGBoost:0.9223514735396013	Mean Absolute Error 0.4366949212345356	Mean sqret score0.7562535120864544
+2021-09-18/18:36:18		Entered the get_best_params_for_RandomForest Method
+2021-09-18/18:38:34		Gradient Boosting Regression Best params
+2021-09-18/18:38:34		r2 score:0.9464958915388206	Mean Absolute Error 0.38522554563116385	Mean sqret score0.6277610430503195
+2021-09-18/18:38:34		Entered the save_model method of File Operation Class
+2021-09-18/18:38:34		Model FileGridentDescent Saved.Exited the save_model method of file_operation class
+2021-09-18/18:38:34		Successfull End of Training
+2021-09-18/19:44:53		Start of Training
+2021-09-18/19:44:53		start data getting
+2021-09-18/19:44:53		Entered the get_data method of the Data_Getter class
+2021-09-18/19:44:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/19:44:53		get data succesfullly
+2021-09-18/19:44:53		Entered is Null Present in data set
+2021-09-18/19:44:53		Enter Mission value impute
+2021-09-18/19:44:53		Missing value fill succesfully
+2021-09-18/19:44:53		import missing value succesfully
+2021-09-18/19:44:53		Convert datatime folder into int
+2021-09-18/19:44:53		datetime convert into succesfully
+2021-09-18/19:44:53		inter in label encoding
+2021-09-18/19:44:53		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/19:44:53		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/19:44:53		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/19:44:54		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/19:44:54		Encoding succesfullly
+2021-09-18/19:44:54		Entered the remove_columns method of the Preprocessor class
+2021-09-18/19:44:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2021-09-18/19:44:54		Remove date time column succesfully
+2021-09-18/19:44:54		sterted columns
+2021-09-18/19:44:54		Sepreate label succesfully
+2021-09-18/19:44:54		train test split
+2021-09-18/19:44:54		scale numberical value
+2021-09-18/19:44:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/19:44:54		scale numberical value
+2021-09-18/19:44:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2021-09-18/19:44:54		scale numbrical value succesfully
+2021-09-18/19:44:54		Entered the get_best_model method of the Model_Finder class
+2021-09-18/19:44:54		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2021-09-18/19:45:13		fridict xgboost score 
+2021-09-18/19:45:13		r2_score   for XGBoost:0.9451133946678796	Mean Absolute Error 0.39109319486067395	Mean sqret score0.6372260785312882
+2021-09-18/19:45:13		Entered the get_best_params_for_RandomForest Method
+2021-09-18/19:47:30		Gradient Boosting Regression Best params
+2021-09-18/19:47:30		r2 score:0.9487580116336811	Mean Absolute Error 0.3727454860793733	Mean sqret score0.6157059383306293
+2021-09-18/19:47:30		Entered the save_model method of File Operation Class
+2021-09-18/19:47:30		Model FileGridentDescent Saved.Exited the save_model method of file_operation class
+2021-09-18/19:47:30		Successfull End of Training

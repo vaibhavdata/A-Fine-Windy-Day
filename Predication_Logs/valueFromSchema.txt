@@ -1,0 +1,4 @@
+2021-09-18/18:45:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 21
+
+2021-09-18/19:48:53		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 21
+

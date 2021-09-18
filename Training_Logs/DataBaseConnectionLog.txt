@@ -1,0 +1,21 @@
+2021-09-18/14:45:21		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/14:45:21		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/14:45:21		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/15:22:39		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/15:22:39		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/15:22:39		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:29		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/16:37:29		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/16:37:29		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/16:37:44		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/16:37:44		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/16:37:44		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/18:30:02		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/18:30:02		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/18:30:02		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/18:35:53		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/18:35:53		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/18:35:53		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/19:44:46		Database < A_FIne_Day_predication > Created successfully!!
+2021-09-18/19:44:46		Database < A_FIne_Day_predication > Connected successfully!!
+2021-09-18/19:44:46		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package

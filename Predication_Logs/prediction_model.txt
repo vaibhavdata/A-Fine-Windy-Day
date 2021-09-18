@@ -1,0 +1,52 @@
+2021-09-18/18:45:11		start data getting
+2021-09-18/18:45:11		Entered the get_data method of the Data_Getter class
+2021-09-18/18:45:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/18:45:12		get data succesfullly
+2021-09-18/18:45:12		Entered is Null Present in data set
+2021-09-18/18:45:12		Enter Mission value impute
+2021-09-18/18:45:12		Missing value fill succesfully
+2021-09-18/18:45:12		import missing value succesfully
+2021-09-18/18:45:12		Convert datatime folder into int
+2021-09-18/18:45:12		datetime convert into succesfully
+2021-09-18/18:45:12		inter in label encoding
+2021-09-18/18:45:12		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/18:45:12		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/18:45:12		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/18:45:12		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/18:45:12		Remove date time column succesfully
+2021-09-18/18:45:12		Removing Unwanted Columns Started !!
+2021-09-18/18:45:12		Unwanted Columns Deleted Successfully !!
+2021-09-18/18:45:12		remove outlier succesfully
+2021-09-18/18:45:12		Entered the find_correct_model_file method of the File_Operation class
+2021-09-18/18:45:12		Exited the find_correct_model_file method of FileMethods Package
+2021-09-18/18:45:12		Entered the load_model method of File Operation Class
+2021-09-18/18:45:12		Model FileGridentDescentLoaded Successfully
+2021-09-18/18:45:12		load model succesfully
+2021-09-18/18:45:12		model load succesfully
+2021-09-18/18:45:13		Successfull End of Prediction
+2021-09-18/19:48:56		start data getting
+2021-09-18/19:48:56		Entered the get_data method of the Data_Getter class
+2021-09-18/19:48:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-09-18/19:48:56		get data succesfullly
+2021-09-18/19:48:56		Entered is Null Present in data set
+2021-09-18/19:48:56		Enter Mission value impute
+2021-09-18/19:48:56		Missing value fill succesfully
+2021-09-18/19:48:56		import missing value succesfully
+2021-09-18/19:48:56		Convert datatime folder into int
+2021-09-18/19:48:56		datetime convert into succesfully
+2021-09-18/19:48:56		inter in label encoding
+2021-09-18/19:48:56		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/19:48:56		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/19:48:56		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/19:48:56		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/19:48:56		Remove date time column succesfully
+2021-09-18/19:48:56		Removing Unwanted Columns Started !!
+2021-09-18/19:48:56		Unwanted Columns Deleted Successfully !!
+2021-09-18/19:48:56		remove outlier succesfully
+2021-09-18/19:48:56		Entered the find_correct_model_file method of the File_Operation class
+2021-09-18/19:48:56		Exited the find_correct_model_file method of FileMethods Package
+2021-09-18/19:48:56		Entered the load_model method of File Operation Class
+2021-09-18/19:48:56		Model FileGridentDescentLoaded Successfully
+2021-09-18/19:48:56		load model succesfully
+2021-09-18/19:48:57		model load succesfully
+2021-09-18/19:48:57		Successfull End of Prediction

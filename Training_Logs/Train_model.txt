@@ -1,0 +1,84 @@
+2021-09-18/14:45:17		start train validation 
+2021-09-18/14:45:18		Raw Data Validation complite
+2021-09-18/14:45:18		Starting Data Transforamtion!!
+2021-09-18/14:45:21		DataTransformation Completed!!!
+2021-09-18/14:45:21		Start Database connection
+2021-09-18/14:45:22		Creation of Database Completed Successfully !!
+2021-09-18/14:45:24		Insertion of document into collection completed Successfully !!
+2021-09-18/14:45:24		Good_Data folder deleted!!!
+2021-09-18/14:45:24		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/14:45:24		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/14:45:24		Validation Operation completed!!
+2021-09-18/14:45:24		Extracting csv file from table
+2021-09-18/15:22:37		start train validation 
+2021-09-18/15:22:38		Raw Data Validation complite
+2021-09-18/15:22:38		Starting Data Transforamtion!!
+2021-09-18/15:22:39		DataTransformation Completed!!!
+2021-09-18/15:22:39		Start Database connection
+2021-09-18/15:22:40		Creation of Database Completed Successfully !!
+2021-09-18/15:22:42		Insertion of document into collection completed Successfully !!
+2021-09-18/15:22:42		Good_Data folder deleted!!!
+2021-09-18/15:22:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/15:22:42		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/15:22:42		Validation Operation completed!!
+2021-09-18/15:22:42		Extracting csv file from table
+2021-09-18/16:37:26		start train validation 
+2021-09-18/16:37:27		Raw Data Validation complite
+2021-09-18/16:37:27		Starting Data Transforamtion!!
+2021-09-18/16:37:29		DataTransformation Completed!!!
+2021-09-18/16:37:29		Start Database connection
+2021-09-18/16:37:30		Creation of Database Completed Successfully !!
+2021-09-18/16:37:33		Insertion of document into collection completed Successfully !!
+2021-09-18/16:37:33		Good_Data folder deleted!!!
+2021-09-18/16:37:33		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/16:37:33		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/16:37:33		Validation Operation completed!!
+2021-09-18/16:37:33		Extracting csv file from table
+2021-09-18/16:37:41		start train validation 
+2021-09-18/16:37:42		Raw Data Validation complite
+2021-09-18/16:37:42		Starting Data Transforamtion!!
+2021-09-18/16:37:44		DataTransformation Completed!!!
+2021-09-18/16:37:44		Start Database connection
+2021-09-18/16:37:45		Creation of Database Completed Successfully !!
+2021-09-18/16:37:47		Insertion of document into collection completed Successfully !!
+2021-09-18/16:37:47		Good_Data folder deleted!!!
+2021-09-18/16:37:47		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/16:37:47		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/16:37:47		Validation Operation completed!!
+2021-09-18/16:37:47		Extracting csv file from table
+2021-09-18/18:30:00		start train validation 
+2021-09-18/18:30:00		Raw Data Validation complite
+2021-09-18/18:30:00		Starting Data Transforamtion!!
+2021-09-18/18:30:02		DataTransformation Completed!!!
+2021-09-18/18:30:02		Start Database connection
+2021-09-18/18:30:03		Creation of Database Completed Successfully !!
+2021-09-18/18:30:05		Insertion of document into collection completed Successfully !!
+2021-09-18/18:30:05		Good_Data folder deleted!!!
+2021-09-18/18:30:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/18:30:05		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/18:30:05		Validation Operation completed!!
+2021-09-18/18:30:05		Extracting csv file from table
+2021-09-18/18:35:51		start train validation 
+2021-09-18/18:35:52		Raw Data Validation complite
+2021-09-18/18:35:52		Starting Data Transforamtion!!
+2021-09-18/18:35:53		DataTransformation Completed!!!
+2021-09-18/18:35:53		Start Database connection
+2021-09-18/18:35:54		Creation of Database Completed Successfully !!
+2021-09-18/18:35:56		Insertion of document into collection completed Successfully !!
+2021-09-18/18:35:56		Good_Data folder deleted!!!
+2021-09-18/18:35:56		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/18:35:56		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/18:35:56		Validation Operation completed!!
+2021-09-18/18:35:56		Extracting csv file from table
+2021-09-18/19:44:44		start train validation 
+2021-09-18/19:44:45		Raw Data Validation complite
+2021-09-18/19:44:45		Starting Data Transforamtion!!
+2021-09-18/19:44:46		DataTransformation Completed!!!
+2021-09-18/19:44:46		Start Database connection
+2021-09-18/19:44:48		Creation of Database Completed Successfully !!
+2021-09-18/19:44:51		Insertion of document into collection completed Successfully !!
+2021-09-18/19:44:51		Good_Data folder deleted!!!
+2021-09-18/19:44:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2021-09-18/19:44:51		Bad files moved to archive!! Bad folder Deleted!!
+2021-09-18/19:44:51		Validation Operation completed!!
+2021-09-18/19:44:51		Extracting csv file from table

@@ -1,0 +1,14 @@
+2021-09-18/18:45:08		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:45:08		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/18:45:09		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:45:09		Entered insertionGoodData_into_collection() method of DB_Operation class of predict_db_operations package
+2021-09-18/18:45:10		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/18:45:11		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/18:45:11		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package
+2021-09-18/19:48:53		Entered create_db_connection() method of DB_Operation class of training_db_operations package
+2021-09-18/19:48:53		Entered create_collection() method of DB_Operation class of training_db_operations package
+2021-09-18/19:48:54		Successfully Executed create_collection() method of DB_Operation class of db_operation package
+2021-09-18/19:48:54		Entered insertionGoodData_into_collection() method of DB_Operation class of predict_db_operations package
+2021-09-18/19:48:55		Successfully Executed insertion_GoodRawData_into_collection() method of DB_Operation class of db_operation package
+2021-09-18/19:48:55		Entered selectDataFromCollection_into_csv() method of DB_Operation class of training_db_operations package
+2021-09-18/19:48:56		Successfully Executed selectDataFromCollection_into_csv() method of DB_Operation class of db_operation package

@@ -1,0 +1,2 @@
+2021-09-18/18:45:10		Data File :: %s Inserted Successfully in Collection
+2021-09-18/19:48:55		Data File :: %s Inserted Successfully in Collection

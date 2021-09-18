@@ -1,0 +1,7 @@
+2021-09-18/14:45:21		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/15:22:39		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/16:37:29		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/16:37:44		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/18:30:02		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/18:35:53		 WindyDay_11082021_183700.csv: File Transformed successfully!!
+2021-09-18/19:44:46		 WindyDay_11082021_183700.csv: File Transformed successfully!!

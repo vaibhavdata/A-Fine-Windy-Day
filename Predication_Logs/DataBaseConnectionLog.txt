@@ -1,0 +1,6 @@
+2021-09-18/18:45:08		Database < Predication > Created successfully!!
+2021-09-18/18:45:08		Database < Predication > Connected successfully!!
+2021-09-18/18:45:08		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package
+2021-09-18/19:48:53		Database < Predication > Created successfully!!
+2021-09-18/19:48:53		Database < Predication > Connected successfully!!
+2021-09-18/19:48:53		Successfully Executed create_db_connection() method of DB_Operation class of db_operation package

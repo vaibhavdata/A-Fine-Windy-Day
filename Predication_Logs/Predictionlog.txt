@@ -1,0 +1,30 @@
+2021-09-18/18:46:35		Start of DataRow Prediction
+2021-09-18/18:46:35		Convert datatime folder into int
+2021-09-18/18:46:35		datetime convert into succesfully
+2021-09-18/18:46:35		inter in label encoding
+2021-09-18/18:46:35		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/18:46:35		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/18:46:35		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/18:46:35		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/18:46:35		Removing Unwanted Columns Started !!
+2021-09-18/18:46:35		Unwanted Columns Deleted Successfully !!
+2021-09-18/18:46:35		Entered the find_correct_model_file method of the File_Operation class
+2021-09-18/18:46:35		Exited the find_correct_model_file method of FileMethods Package
+2021-09-18/18:46:35		Entered the load_model method of File Operation Class
+2021-09-18/18:46:35		Model FileGridentDescentLoaded Successfully
+2021-09-18/18:46:35		Successfull End of DataRow Prediction
+2021-09-18/18:47:11		Start of DataRow Prediction
+2021-09-18/18:47:11		Convert datatime folder into int
+2021-09-18/18:47:11		datetime convert into succesfully
+2021-09-18/18:47:11		inter in label encoding
+2021-09-18/18:47:11		Entered to Data Row perform One-Hot Encoding on cloud Feature
+2021-09-18/18:47:11		One-Hot Encoding of Source Feature Successfully Completed
+2021-09-18/18:47:11		Entered to perform One-Hot Encoding on turbine_status  Feature
+2021-09-18/18:47:11		One-Hot Encoding of Browser Feature Successfully Completed
+2021-09-18/18:47:11		Removing Unwanted Columns Started !!
+2021-09-18/18:47:11		Unwanted Columns Deleted Successfully !!
+2021-09-18/18:47:11		Entered the find_correct_model_file method of the File_Operation class
+2021-09-18/18:47:11		Exited the find_correct_model_file method of FileMethods Package
+2021-09-18/18:47:11		Entered the load_model method of File Operation Class
+2021-09-18/18:47:11		Model FileGridentDescentLoaded Successfully
+2021-09-18/18:47:11		Successfull End of DataRow Prediction
